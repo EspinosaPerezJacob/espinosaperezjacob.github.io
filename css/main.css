@@ -1,0 +1,82 @@
+body {
+  background-image: url(../img/edg.jpg);
+}
+
+#fondocuentos {
+  background-image: url(../img/Luna.jpg);
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  position: absolute;
+  top: 2em;
+  left: 1em;
+  width: 9em }
+.titulos{
+  background-color: green;  
+  }
+
+ul li {
+  background: white;
+  margin: 2.5em 0;
+  padding: 0.3em;
+  border-right: 1em solid black }
+ul a {
+  text-decoration: none 
+}
+
+.contenedor{
+  margin-left: 40px;
+  margin-right: 40px;
+  width: auto;
+  height: 2200px;
+  margin-bottom: 100px;
+  text-align: center;
+}
+
+.tcuento{
+  color: white;
+  text-align: justify;
+  margin: 15px;
+}
+
+.cuento{
+  width: 700px;
+  height: 500px;
+  background-color: #086A87;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: scroll;
+  border-radius: 3%;
+}
+
+.imagenes{
+  width: 400px;
+  display: block;
+  margin: 0px auto;
+}
+
+.copinion{
+  width: 700px;
+  height: 300px;
+  margin-top: 20px;
+  background-color: #8A0829;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 3%;
+  overflow: scroll;
+}
+
+.ccritica{
+  width: 700px;
+  height: 300px;
+  margin-top: 20px;
+  background-color: #2E3B0B;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 3%;
+  overflow: scroll;
+  text-align: center;
+}
