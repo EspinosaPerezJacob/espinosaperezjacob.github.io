@@ -80,3 +80,7 @@ ul a {
   overflow: scroll;
   text-align: center;
 }
+
+dt{
+  color: red;
+}
